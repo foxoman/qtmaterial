@@ -1,6 +1,6 @@
 # QtMaterial
-QtCreator Syntax theme inspired by Google Material
-
+Qt Creator Syntax color theme inspired by Google Material
+* * *
 # Screenshot
 
 ### QML
@@ -19,5 +19,3 @@ QtCreator Syntax theme inspired by Google Material
 
 ## Linux
 `cp qtmaterial.xml ~/.config/QtProject/qtcreator/styles/`
-
-
