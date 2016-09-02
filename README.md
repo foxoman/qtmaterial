@@ -1,7 +1,7 @@
 # QtMaterial
 Qt Creator Syntax color theme inspired by Google Material
 * * *
-# Screenshot
+# Screenshots
 
 ### QML
 ![QML](https://github.com/foxoman/qtmaterial/blob/master/qtmaterial-qml.png?raw=true)
