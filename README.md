@@ -12,7 +12,11 @@ QtCreator Syntax theme inspired by Google Material
 # Install
 
 ## Windows
-
+==xcopy qtmaterial.xml %APPDATA%\QtProject\qtcreator\styles
+==
 ## MacOS
-
+==cp qtmaterial.xml ~/.config/QtProject/qtcreator/styles/
+==
 ## Linux
+==cp qtmaterial.xml ~/.config/QtProject/qtcreator/styles/
+==
