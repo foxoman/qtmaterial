@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme version="1.0" name="QtMaterialv2">
+<style-scheme version="1.0" name="QtMaterial">
   <style name="Text" foreground="#607d8b" background="#ffffff"/>
   <style name="Link" foreground="#0000ff"/>
   <style name="Selection" foreground="#b0bec5" background="#e6f2f0"/>
@@ -17,7 +17,7 @@
   <style name="String" foreground="#009688"/>
   <style name="Type" foreground="#9c27b0"/>
   <style name="Local" foreground="#607d8b"/>
-  <style name="Field" foreground="#ff5722"/>
+  <style name="Field" foreground="#3f51b5"/>
   <style name="Static" foreground="#9c27b0"/>
   <style name="VirtualMethod" foreground="#ff5722"/>
   <style name="Function" foreground="#5677fc"/>
