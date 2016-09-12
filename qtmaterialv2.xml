@@ -3,7 +3,7 @@
   <style name="Text" foreground="#607d8b" background="#ffffff"/>
   <style name="Link" foreground="#0000ff"/>
   <style name="Selection" foreground="#b0bec5" background="#e6f2f0"/>
-  <style name="LineNumber" foreground="#cccdce" background="#f5f6f7"/>
+  <style name="LineNumber" foreground="#cccdce"/>
   <style name="SearchResult" foreground="#000000" background="#ffef0b"/>
   <style name="SearchScope" foreground="#000000" background="#f7fafe"/>
   <style name="Parentheses" foreground="#03a9f4" background="#cddc39"/>
