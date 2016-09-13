@@ -8,7 +8,7 @@
   <style name="SearchScope" foreground="#000000" background="#f7fafe"/>
   <style name="Parentheses" foreground="#03a9f4" background="#cddc39"/>
   <style name="ParenthesesMismatch" foreground="#000000" background="#ff00ff"/>
-  <style name="CurrentLine" foreground="#000000" background="#cbdff7"/>
+  <style name="CurrentLine" foreground="#000000" background="#e6f2f0"/>
   <style name="CurrentLineNumber" foreground="#808080" bold="true"/>
   <style name="Occurrences" foreground="#000000" background="#b4b4b4"/>
   <style name="Occurrences.Unused" foreground="#808000"/>
@@ -31,11 +31,11 @@
   <style name="Doxygen.Tag" foreground="#212121"/>
   <style name="VisualWhitespace" foreground="#c0c0c0"/>
   <style name="QmlLocalId" foreground="#5677fc"/>
-  <style name="QmlExternalId" foreground="#03a9f4" italic="true"/>
+  <style name="QmlExternalId" foreground="#03a9f4"/>
   <style name="QmlTypeId" foreground="#9c27b0"/>
   <style name="QmlRootObjectProperty" foreground="#5677fc"/>
   <style name="QmlScopeObjectProperty" foreground="#5677fc"/>
-  <style name="QmlExternalObjectProperty" foreground="#03a9f4" italic="true"/>
+  <style name="QmlExternalObjectProperty" foreground="#03a9f4"/>
   <style name="JsScopeVar" foreground="#03a9f4"/>
   <style name="JsImportVar" foreground="#3f51b5"/>
   <style name="JsGlobalVar" foreground="#ff5722"/>
