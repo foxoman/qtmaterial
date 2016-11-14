@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme version="1.0" name="QtMaterial">
+<style-scheme version="2.1" name="QtMaterial">
   <style name="Text" foreground="#607d8b" background="#ffffff"/>
   <style name="Link" foreground="#0000ff"/>
   <style name="Selection" foreground="#b0bec5" background="#e6f2f0"/>
@@ -8,6 +8,7 @@
   <style name="SearchScope" foreground="#000000" background="#f7fafe"/>
   <style name="Parentheses" foreground="#03a9f4" background="#cddc39"/>
   <style name="ParenthesesMismatch" foreground="#000000" background="#ff00ff"/>
+  <style name="AutoComplete" foreground="#000080" background="#c0c0ff"/>
   <style name="CurrentLine" foreground="#000000" background="#e6f2f0"/>
   <style name="CurrentLineNumber" foreground="#808080" bold="true"/>
   <style name="Occurrences" foreground="#000000" background="#b4b4b4"/>
@@ -17,16 +18,17 @@
   <style name="String" foreground="#009688"/>
   <style name="Type" foreground="#9c27b0"/>
   <style name="Local" foreground="#607d8b"/>
+  <style name="Global"/>
   <style name="Field" foreground="#3f51b5"/>
   <style name="Static" foreground="#9c27b0"/>
   <style name="VirtualMethod" foreground="#ff5722"/>
   <style name="Function" foreground="#5677fc"/>
   <style name="Keyword" foreground="#259b24"/>
   <style name="PrimitiveType" foreground="#3f51b5"/>
-  <style name="Operator" foreground="#607d8b"/>
+  <style name="Operator" foreground="#263238"/>
   <style name="Preprocessor" foreground="#3f51b5"/>
   <style name="Label" foreground="#0086b3"/>
-  <style name="Comment" foreground="#e91e63" background="#ffeaf4"/>
+  <style name="Comment" foreground="#e91e63" italic="true"/>
   <style name="Doxygen.Comment" foreground="#795548"/>
   <style name="Doxygen.Tag" foreground="#212121"/>
   <style name="VisualWhitespace" foreground="#c0c0c0"/>
@@ -57,5 +59,6 @@
   <style name="WarningContext" underlineColor="#ffbe00" underlineStyle="DotLine"/>
   <style name="Error" underlineColor="#ff0000" underlineStyle="SingleUnderline"/>
   <style name="ErrorContext" underlineColor="#ff0000" underlineStyle="DotLine"/>
+  <style name="Declaration"/>
   <style name="LastStyleSentinel"/>
 </style-scheme>
