@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme version="2.1" name="QtMaterial">
+<style-scheme version="2.2" name="QtMaterial">
   <style name="Text" foreground="#607d8b" background="#ffffff"/>
   <style name="Link" foreground="#0000ff"/>
   <style name="Selection" foreground="#b0bec5" background="#e6f2f0"/>
@@ -43,7 +43,7 @@
   <style name="JsGlobalVar" foreground="#ff5722"/>
   <style name="QmlStateName" foreground="#607d8b"/>
   <style name="Binding" foreground="#3f51b5"/>
-  <style name="DisabledCode" foreground="#212121" background="#efefef"/>
+  <style name="DisabledCode" foreground="#747474" background="#f7f7f7"/>
   <style name="AddedLine" foreground="#00aa00"/>
   <style name="RemovedLine" foreground="#ff0000"/>
   <style name="DiffFile" foreground="#000080"/>
