@@ -1,5 +1,11 @@
 # QtMaterial V 2.0
 Qt Creator Syntax color theme inspired by Google Material
+
+# Support
+If you like this theme, you can use it for freem appricate your support to have more themes :)
+
+<a href="https://www.buymeacoffee.com/foxoman" rel="Support">![Support](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)</a>
+
 * * *
 # Screenshots
 
